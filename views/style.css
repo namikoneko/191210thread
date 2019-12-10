@@ -1,0 +1,10 @@
+table{
+	outline: 1px solid red;
+}
+.myTextarea{
+	width: 300px;
+	height: 100px;
+}
+center {
+	margin: 0 auto 0 auto;
+}
